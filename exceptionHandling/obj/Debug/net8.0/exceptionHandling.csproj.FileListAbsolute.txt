@@ -1,0 +1,5 @@
+C:\Users\elvik\Desktop\vscSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\Desktop\vscSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\elvik\Desktop\vscSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfo.cs
+C:\Users\elvik\Desktop\vscSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\elvik\Desktop\vscSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.sourcelink.json
