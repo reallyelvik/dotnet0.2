@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\bin\Debug\net8.0\evenNum100.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\bin\Debug\net8.0\evenNum100.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\bin\Debug\net8.0\evenNum100.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\bin\Debug\net8.0\evenNum100.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\bin\Debug\net8.0\evenNum100.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\refint\evenNum100.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\evenNum100.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100\obj\Debug\net8.0\ref\evenNum100.dll

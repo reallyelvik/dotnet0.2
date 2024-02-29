@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\bin\Debug\net8.0\secondlargestnum.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\bin\Debug\net8.0\secondlargestnum.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\bin\Debug\net8.0\secondlargestnum.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\bin\Debug\net8.0\secondlargestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\bin\Debug\net8.0\secondlargestnum.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\refint\secondlargestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\secondlargestnum.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\secondlargestnum\obj\Debug\net8.0\ref\secondlargestnum.dll

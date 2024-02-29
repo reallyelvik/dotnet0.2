@@ -1,0 +1,4 @@
+C:\Users\elvik\Desktop\vscSharp\multipleInheritance\obj\Debug\net8.0\multipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\Desktop\vscSharp\multipleInheritance\obj\Debug\net8.0\multipleInheritance.AssemblyInfoInputs.cache
+C:\Users\elvik\Desktop\vscSharp\multipleInheritance\obj\Debug\net8.0\multipleInheritance.AssemblyInfo.cs
+C:\Users\elvik\Desktop\vscSharp\multipleInheritance\obj\Debug\net8.0\multipleInheritance.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\bin\Debug\net8.0\evenNum100whileLoop.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\bin\Debug\net8.0\evenNum100whileLoop.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\bin\Debug\net8.0\evenNum100whileLoop.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\bin\Debug\net8.0\evenNum100whileLoop.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\bin\Debug\net8.0\evenNum100whileLoop.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\refint\evenNum100whileLoop.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\evenNum100whileLoop.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evenNum100whileLoop\obj\Debug\net8.0\ref\evenNum100whileLoop.dll

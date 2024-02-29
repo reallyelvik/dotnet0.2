@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\bin\Debug\net8.0\removeVowel.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\bin\Debug\net8.0\removeVowel.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\bin\Debug\net8.0\removeVowel.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\bin\Debug\net8.0\removeVowel.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\bin\Debug\net8.0\removeVowel.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\refint\removeVowel.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\removeVowel.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\removeVowel\obj\Debug\net8.0\ref\removeVowel.dll

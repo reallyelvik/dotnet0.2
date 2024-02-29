@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\bin\Debug\net8.0\evencount3x3matrix.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\bin\Debug\net8.0\evencount3x3matrix.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\bin\Debug\net8.0\evencount3x3matrix.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\bin\Debug\net8.0\evencount3x3matrix.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\bin\Debug\net8.0\evencount3x3matrix.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\refint\evencount3x3matrix.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\evencount3x3matrix.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\evencount3x3matrix\obj\Debug\net8.0\ref\evencount3x3matrix.dll

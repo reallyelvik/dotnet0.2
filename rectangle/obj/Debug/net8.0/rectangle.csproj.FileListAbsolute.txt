@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\bin\Debug\net8.0\rectangle.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\bin\Debug\net8.0\rectangle.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\bin\Debug\net8.0\rectangle.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\bin\Debug\net8.0\rectangle.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\bin\Debug\net8.0\rectangle.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\refint\rectangle.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\rectangle.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\rectangle\obj\Debug\net8.0\ref\rectangle.dll

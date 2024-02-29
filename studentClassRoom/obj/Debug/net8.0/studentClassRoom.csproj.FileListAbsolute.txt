@@ -1,0 +1,14 @@
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\bin\Debug\net8.0\studentClassRoom.exe
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\bin\Debug\net8.0\studentClassRoom.deps.json
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\bin\Debug\net8.0\studentClassRoom.runtimeconfig.json
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\bin\Debug\net8.0\studentClassRoom.dll
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\bin\Debug\net8.0\studentClassRoom.pdb
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.AssemblyInfoInputs.cache
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.AssemblyInfo.cs
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.dll
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\refint\studentClassRoom.dll
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.pdb
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\studentClassRoom.genruntimeconfig.cache
+C:\Users\elvik\Desktop\vscSharp\studentClassRoom\obj\Debug\net8.0\ref\studentClassRoom.dll

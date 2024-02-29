@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\bin\Debug\net8.0\wordCounter.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\bin\Debug\net8.0\wordCounter.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\bin\Debug\net8.0\wordCounter.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\bin\Debug\net8.0\wordCounter.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\bin\Debug\net8.0\wordCounter.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\refint\wordCounter.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\wordCounter.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\wordCounter\obj\Debug\net8.0\ref\wordCounter.dll

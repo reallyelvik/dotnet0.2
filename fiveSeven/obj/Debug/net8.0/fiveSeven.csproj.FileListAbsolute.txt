@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\bin\Debug\net8.0\fiveSeven.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\bin\Debug\net8.0\fiveSeven.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\bin\Debug\net8.0\fiveSeven.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\bin\Debug\net8.0\fiveSeven.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\bin\Debug\net8.0\fiveSeven.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\refint\fiveSeven.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\fiveSeven.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\fiveSeven\obj\Debug\net8.0\ref\fiveSeven.dll

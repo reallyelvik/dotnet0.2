@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\bin\Debug\net8.0\largestnum.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\bin\Debug\net8.0\largestnum.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\bin\Debug\net8.0\largestnum.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\bin\Debug\net8.0\largestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\bin\Debug\net8.0\largestnum.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\refint\largestnum.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\largestnum.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\largestnum\obj\Debug\net8.0\ref\largestnum.dll

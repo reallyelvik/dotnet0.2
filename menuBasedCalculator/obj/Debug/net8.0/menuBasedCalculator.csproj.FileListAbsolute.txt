@@ -1,0 +1,14 @@
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\bin\Debug\net8.0\menuBasedCalculator.exe
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\bin\Debug\net8.0\menuBasedCalculator.deps.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\bin\Debug\net8.0\menuBasedCalculator.runtimeconfig.json
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\bin\Debug\net8.0\menuBasedCalculator.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\bin\Debug\net8.0\menuBasedCalculator.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.AssemblyInfoInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.AssemblyInfo.cs
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\refint\menuBasedCalculator.dll
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.pdb
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\menuBasedCalculator.genruntimeconfig.cache
+C:\Users\elvik\OneDrive\Desktop\vscSharp\menuBasedCalculator\obj\Debug\net8.0\ref\menuBasedCalculator.dll

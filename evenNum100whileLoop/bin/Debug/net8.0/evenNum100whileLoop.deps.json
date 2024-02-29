@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "evenNum100whileLoop/1.0.0": {
+        "runtime": {
+          "evenNum100whileLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evenNum100whileLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
