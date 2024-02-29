@@ -15,7 +15,7 @@ namespace partialClass
     }
 }
 
-// File2: Student.cs
+// File2: Student.cs                                                                                                            
 
 namespace partialClass
 {
