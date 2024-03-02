@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sealedMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1022dae1543b5b4a7e985080a28d186bedebf8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3ed3978c3e446ac81195bed9a7925014da7baf")]
 [assembly: System.Reflection.AssemblyProductAttribute("sealedMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sealedMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
